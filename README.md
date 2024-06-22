@@ -1,6 +1,6 @@
 **Green Plant Project** 🪴
 
-Overview..:- 
+Overview :- 
 The Green Plant Project is a web application designed to provide users with information about various plants, 
 their care instructions, and tips for maintaining a green and healthy environment. 
 This project is built using React, Tailwind CSS, and JavaScript.
